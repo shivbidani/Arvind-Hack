@@ -73,7 +73,7 @@ pyxdg==0.25
 pyzmq==15.2.0
 qtconsole==4.3.0
 recordlinkage==0.8.1
-reportlab==3.3.0
+reportlab==3.5.55
 requests==2.9.1
 scikit-learn==0.18.1
 scipy==0.19.0
